@@ -8,6 +8,7 @@
 
 <p><strong>ANDROID SYSTEMS  ·  LINUX  ·  AI TOOLS</strong></p>
 <p><code>Independent developer building practical software from kernel to cloud.</code></p>
+<p><code>◈ DIMENSIONAL SYSTEMS LAB  /  BUILDING IN PUBLIC</code></p>
 
 <a href="https://github.com/darkvirgoyt-beep/VirgoYT-AI"><img src="https://img.shields.io/badge/⚡_VIRGOYT_CLOUD_AI-735CFF?style=for-the-badge" alt="VirgoYT Cloud AI" /></a>
 <a href="https://github.com/darkvirgoyt-beep?tab=repositories"><img src="https://img.shields.io/badge/OPEN_SOURCE-22D3EE?style=for-the-badge&labelColor=111827" alt="Open source" /></a>
