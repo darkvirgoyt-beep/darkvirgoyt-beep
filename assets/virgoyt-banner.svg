@@ -1,24 +1,36 @@
-<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="390" viewBox="0 0 1200 390" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse"><stop stop-color="#05060C"/><stop offset="0.52" stop-color="#10162A"/><stop offset="1" stop-color="#2A0B24"/></linearGradient>
-    <linearGradient id="edge" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse"><stop stop-color="#7C5CFF"/><stop offset="0.45" stop-color="#22D3EE"/><stop offset="1" stop-color="#FB4161"/></linearGradient>
-    <radialGradient id="pink" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1040 80) rotate(135) scale(470 300)"><stop stop-color="#F43F5E" stop-opacity=".48"/><stop offset="1" stop-color="#F43F5E" stop-opacity="0"/></radialGradient>
-    <filter id="soft"><feGaussianBlur stdDeviation="30"/></filter>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="390" gradientUnits="userSpaceOnUse"><stop stop-color="#050711"/><stop offset=".45" stop-color="#111A38"/><stop offset="1" stop-color="#310D2B"/></linearGradient>
+    <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFFFFF" stop-opacity=".18"/><stop offset=".45" stop-color="#6D5DF5" stop-opacity=".12"/><stop offset="1" stop-color="#22D3EE" stop-opacity=".04"/></linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse"><stop stop-color="#7C5CFF"/><stop offset=".45" stop-color="#22D3EE"/><stop offset="1" stop-color="#FB4161"/></linearGradient>
+    <linearGradient id="cubeTop" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#9B8CFF"/><stop offset="1" stop-color="#4D36B7"/></linearGradient>
+    <linearGradient id="cubeSide" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#40309B"/><stop offset="1" stop-color="#18123D"/></linearGradient>
+    <radialGradient id="pink" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1020 72) rotate(135) scale(510 300)"><stop stop-color="#F43F5E" stop-opacity=".52"/><stop offset="1" stop-color="#F43F5E" stop-opacity="0"/></radialGradient>
+    <filter id="blur"><feGaussianBlur stdDeviation="32"/></filter>
+    <filter id="shadow"><feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#000000" flood-opacity=".55"/></filter>
   </defs>
-  <rect width="1200" height="360" rx="24" fill="url(#bg)"/>
-  <ellipse cx="1020" cy="72" rx="260" ry="160" fill="url(#pink)" filter="url(#soft)"/>
-  <g opacity=".25" stroke="#64748B" stroke-width="1"><path d="M730 0V360M830 0V360M930 0V360M1030 0V360M1130 0V360"/><path d="M680 72H1200M680 144H1200M680 216H1200M680 288H1200"/></g>
-  <path d="M0 296C245 231 374 340 603 274C815 214 973 244 1200 150V360H0V296Z" fill="#03040A" fill-opacity=".73"/>
-  <path d="M0 306C250 240 372 350 614 284C826 225 982 252 1200 160" stroke="url(#edge)" stroke-width="3" stroke-opacity=".9"/>
-  <path d="M0 322C252 258 379 365 626 300C834 246 995 270 1200 182" stroke="#22D3EE" stroke-opacity=".2"/>
-  <rect x="72" y="66" width="68" height="68" rx="20" fill="#735CFF"/>
-  <path d="M96 81L120 86L110 111L96 122L104 96L96 81Z" fill="white"/>
-  <text x="168" y="99" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="900" letter-spacing="7">VIRGOYT</text>
-  <text x="172" y="133" fill="#67E8F9" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="4">SYSTEMS LAB  /  OPEN SOURCE  /  AI TOOLS</text>
-  <rect x="72" y="169" width="360" height="2" fill="url(#edge)"/>
-  <text x="72" y="214" fill="#F1F5F9" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">Android systems. Linux tooling.</text>
-  <text x="72" y="249" fill="#F1F5F9" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">Practical AI from kernel to cloud.</text>
-  <text x="72" y="282" fill="#94A3B8" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing=".5">KERNELS  •  RECOVERY  •  PERFORMANCE  •  DEVELOPER AUTOMATION</text>
-  <g transform="translate(970 58)"><circle cx="68" cy="68" r="57" stroke="#22D3EE" stroke-opacity=".6"/><circle cx="68" cy="68" r="36" stroke="#7C5CFF" stroke-width="2"/><circle cx="68" cy="68" r="8" fill="#FB4161"/><path d="M68 10V30M68 106V126M10 68H30M106 68H126" stroke="#CBD5E1" stroke-width="2" stroke-opacity=".8"/></g>
-  <text x="74" y="337" fill="#64748B" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing="3">BUILD  /  TEST  /  DOCUMENT  /  SHIP</text>
+  <rect width="1200" height="390" rx="26" fill="url(#bg)"/>
+  <ellipse cx="1010" cy="70" rx="280" ry="170" fill="url(#pink)" filter="url(#blur)"/>
+  <path d="M0 300C230 238 368 354 610 286C825 226 976 259 1200 164V390H0V300Z" fill="#03040A" fill-opacity=".76"/>
+  <g opacity=".23" stroke="#7C8AAD" stroke-width="1"><path d="M660 80L1200 25M660 140L1200 85M660 200L1200 145M660 260L1200 205M660 320L1200 265"/><path d="M720 0L665 390M820 0L765 390M920 0L865 390M1020 0L965 390M1120 0L1065 390"/></g>
+  <path d="M0 314C245 248 378 365 620 296C832 236 981 267 1200 174" stroke="url(#edge)" stroke-width="3"/>
+  <path d="M0 337C248 274 385 384 628 319C846 260 994 290 1200 198" stroke="#22D3EE" stroke-opacity=".18"/>
+  <g filter="url(#shadow)" opacity=".9">
+    <path d="M865 103L918 72L971 103L918 135L865 103Z" fill="url(#cubeTop)"/><path d="M865 103V168L918 201V135L865 103Z" fill="url(#cubeSide)"/><path d="M971 103V168L918 201V135L971 103Z" fill="#2B1D73"/>
+    <path d="M995 190L1030 170L1065 190L1030 211L995 190Z" fill="#22D3EE" fill-opacity=".75"/><path d="M995 190V236L1030 257V211L995 190Z" fill="#075E79"/><path d="M1065 190V236L1030 257V211L1065 190Z" fill="#0B354D"/>
+    <path d="M1088 88L1110 75L1132 88L1110 102L1088 88Z" fill="#FB4161" fill-opacity=".85"/><path d="M1088 88V116L1110 129V102L1088 88Z" fill="#7C1F3A"/><path d="M1132 88V116L1110 129V102L1132 88Z" fill="#4E1830"/>
+  </g>
+  <rect x="64" y="58" width="670" height="235" rx="22" fill="url(#glass)" stroke="#FFFFFF" stroke-opacity=".16"/>
+  <rect x="64" y="58" width="670" height="235" rx="22" stroke="url(#edge)" stroke-opacity=".5"/>
+  <rect x="91" y="84" width="65" height="65" rx="19" fill="#735CFF"/>
+  <path d="M114 98L138 103L128 128L114 138L122 112L114 98Z" fill="white"/>
+  <text x="178" y="115" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="50" font-weight="900" letter-spacing="7">VIRGOYT</text>
+  <text x="182" y="145" fill="#67E8F9" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="4">SYSTEMS LAB  /  OPEN SOURCE  /  AI TOOLS</text>
+  <rect x="92" y="176" width="400" height="2" fill="url(#edge)"/>
+  <text x="92" y="215" fill="#F1F5F9" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700">Android systems. Linux tooling.</text>
+  <text x="92" y="248" fill="#F1F5F9" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700">Practical AI from kernel to cloud.</text>
+  <text x="92" y="276" fill="#A5B4FC" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="600" letter-spacing="2">KERNELS  •  RECOVERY  •  PERFORMANCE  •  AUTOMATION</text>
+  <g transform="translate(1010 268)"><circle cx="65" cy="65" r="58" stroke="#22D3EE" stroke-opacity=".6"/><circle cx="65" cy="65" r="38" stroke="#7C5CFF" stroke-width="2"/><circle cx="65" cy="65" r="9" fill="#FB4161"/><path d="M65 5V26M65 104V125M5 65H26M104 65H125" stroke="#E2E8F0" stroke-width="2" stroke-opacity=".8"/></g>
+  <text x="80" y="357" fill="#64748B" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing="3">BUILD  /  TEST  /  DOCUMENT  /  SHIP</text>
+  <circle cx="792" cy="92" r="4" fill="#22D3EE"/><circle cx="822" cy="119" r="3" fill="#FB4161"/><circle cx="760" cy="142" r="3" fill="#A78BFA"/>
 </svg>
