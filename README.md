@@ -138,6 +138,17 @@ TypeScript cloud control-plane and Docker node-agent experiment for Minecraft ho
 
 ---
 
+<h2>⌁ CONNECT WITH VIRGOYT</h2>
+
+<div align="center">
+
+<a href="https://www.youtube.com/@VirgoYT707"><img src="https://img.shields.io/badge/YOUTUBE-VirgoYT707-FB0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube — VirgoYT707" /></a>
+<a href="https://www.instagram.com/prince.x._shade"><img src="https://img.shields.io/badge/INSTAGRAM-prince.x._shade-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram — prince.x._shade" /></a>
+<a href="https://t.me/YouTubevirgo"><img src="https://img.shields.io/badge/TELEGRAM-YouTubevirgo-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram — YouTubevirgo" /></a>
+<a href="https://t.me/VirgoYT707Modules"><img src="https://img.shields.io/badge/MODULES-VirgoYT707Modules-735CFF?style=for-the-badge&logo=android&logoColor=white" alt="Telegram modules — VirgoYT707Modules" /></a>
+
+</div>
+
 <h2>⌁ ENGINEERING NOTE</h2>
 
 For device and kernel work, **compatibility and recovery instructions come before marketing**. For AI and cloud work, **secrets stay server-side, actions remain reviewable, and generated artifacts are validated before delivery**.
@@ -148,7 +159,9 @@ For device and kernel work, **compatibility and recovery instructions come befor
 
 <h2>LET'S BUILD SOMETHING USEFUL.</h2>
 
-<a href="https://github.com/darkvirgoyt-beep/issues"><img src="https://img.shields.io/badge/OPEN_A_DISCUSSION-735CFF?style=for-the-badge" alt="Open a discussion" /></a>
+<a href="https://www.youtube.com/@VirgoYT707"><img src="https://img.shields.io/badge/WATCH_ON_YOUTUBE-FB0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch on YouTube" /></a>
+<a href="https://www.instagram.com/prince.x._shade"><img src="https://img.shields.io/badge/FOLLOW_ON_INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Follow on Instagram" /></a>
+<a href="https://t.me/YouTubevirgo"><img src="https://img.shields.io/badge/JOIN_TELEGRAM-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Join Telegram" /></a>
 <a href="https://github.com/darkvirgoyt-beep/VirgoYT-AI"><img src="https://img.shields.io/badge/EXPLORE_VIRGOYT_CLOUD_AI-22D3EE?style=for-the-badge&labelColor=111827" alt="Explore VirgoYT Cloud AI" /></a>
 
 <br /><br />
