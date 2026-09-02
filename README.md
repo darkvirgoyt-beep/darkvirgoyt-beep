@@ -10,6 +10,10 @@
 <p><code>Independent developer building practical software from kernel to cloud.</code></p>
 <p><code>◈ DIMENSIONAL SYSTEMS LAB  /  BUILDING IN PUBLIC</code></p>
 
+<a href="https://github.com/darkvirgoyt-beep/VirgoYT-AI"><img src="./assets/virgoyt-cloud-ai-showcase.gif" alt="Animated VirgoYT Cloud AI showcase" width="100%" /></a>
+
+<p align="center"><a href="https://github.com/darkvirgoyt-beep/VirgoYT-AI"><code>▶ WATCH THE VIRGOYT CLOUD AI SHOWCASE</code></a></p>
+
 <a href="https://github.com/darkvirgoyt-beep/VirgoYT-AI"><img src="https://img.shields.io/badge/⚡_VIRGOYT_CLOUD_AI-735CFF?style=for-the-badge" alt="VirgoYT Cloud AI" /></a>
 <a href="https://github.com/darkvirgoyt-beep?tab=repositories"><img src="https://img.shields.io/badge/OPEN_SOURCE-22D3EE?style=for-the-badge&labelColor=111827" alt="Open source" /></a>
 <a href="https://github.com/darkvirgoyt-beep"><img src="https://img.shields.io/badge/STATUS-BUILDING-FB4161?style=for-the-badge&labelColor=111827" alt="Status building" /></a>
