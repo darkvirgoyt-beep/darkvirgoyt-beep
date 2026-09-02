@@ -1,0 +1,42 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#080B16"/>
+      <stop offset="0.56" stop-color="#11152A"/>
+      <stop offset="1" stop-color="#260D24"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6D5DF5"/>
+      <stop offset="0.52" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#F43F5E"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1000 80) rotate(135) scale(430 280)">
+      <stop stop-color="#F43F5E" stop-opacity="0.42"/>
+      <stop offset="1" stop-color="#F43F5E" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="blur"><feGaussianBlur stdDeviation="26"/></filter>
+  </defs>
+  <rect width="1200" height="320" rx="22" fill="url(#bg)"/>
+  <ellipse cx="1010" cy="58" rx="250" ry="155" fill="url(#glow)" filter="url(#blur)"/>
+  <path d="M0 260C230 205 345 314 575 248C793 185 944 224 1200 128V320H0V260Z" fill="#050711" fill-opacity="0.65"/>
+  <path d="M0 270C250 212 360 318 590 252C816 188 953 228 1200 136" stroke="url(#accent)" stroke-opacity="0.72" stroke-width="3"/>
+  <path d="M0 284C260 226 365 330 610 266C820 210 988 242 1200 158" stroke="#22D3EE" stroke-opacity="0.18" stroke-width="1"/>
+  <g opacity="0.32" stroke="#64748B" stroke-width="1">
+    <path d="M760 0V320M860 0V320M960 0V320M1060 0V320M1160 0V320"/>
+    <path d="M700 64H1200M700 128H1200M700 192H1200M700 256H1200"/>
+  </g>
+  <rect x="68" y="62" width="62" height="62" rx="18" fill="#6D5DF5"/>
+  <path d="M89 78L111 82L103 104L92 113L99 91L89 78Z" fill="white"/>
+  <text x="158" y="92" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="800" letter-spacing="4">VIRGOYT</text>
+  <text x="161" y="128" fill="#A5B4FC" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600" letter-spacing="3">ANDROID SYSTEMS  /  LINUX  /  AI TOOLS</text>
+  <text x="72" y="205" fill="#E2E8F0" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="600">Engineering practical software from kernel to cloud.</text>
+  <text x="72" y="238" fill="#94A3B8" font-family="Arial, Helvetica, sans-serif" font-size="15">Performance tools · recovery systems · developer automation · open source</text>
+  <g transform="translate(970 45)">
+    <circle cx="66" cy="66" r="54" stroke="#22D3EE" stroke-opacity="0.55"/>
+    <circle cx="66" cy="66" r="34" stroke="#6D5DF5" stroke-opacity="0.8" stroke-width="2"/>
+    <circle cx="66" cy="66" r="7" fill="#F43F5E"/>
+    <path d="M66 12V30M66 102V120M12 66H30M102 66H120" stroke="#CBD5E1" stroke-opacity="0.75" stroke-width="2"/>
+  </g>
+  <rect x="72" y="272" width="226" height="3" rx="2" fill="url(#accent)"/>
+  <text x="320" y="279" fill="#64748B" font-family="Arial, Helvetica, sans-serif" font-size="11" letter-spacing="2">BUILD  •  TEST  •  DOCUMENT  •  SHIP</text>
+</svg>
