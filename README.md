@@ -1,158 +1,158 @@
 <div align="center">
 
-<img src="./assets/virgoyt-banner.svg" alt="VirgoYT — Android systems, Linux, and AI tools" width="100%" />
+<img src="./assets/virgoyt-banner.svg" alt="VirgoYT Systems Lab" width="100%" />
 
 <br />
 
-<a href="https://github.com/darkvirgoyt-beep"><img src="https://img.shields.io/badge/GitHub-darkvirgoyt--beep-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://github.com/darkvirgoyt-beep/VirgoYT-AI"><img src="https://img.shields.io/badge/Featured-VirgoYT%20Cloud%20AI-6D5DF5?style=for-the-badge&logo=android&logoColor=white" alt="VirgoYT Cloud AI" /></a>
-<a href="https://github.com/darkvirgoyt-beep?tab=repositories"><img src="https://img.shields.io/badge/Open%20Source-Projects-22D3EE?style=for-the-badge&logo=git&logoColor=111827" alt="Open source projects" /></a>
+<h1>VIRGOYT</h1>
 
-<h2>VIRGOYT</h2>
-<p><strong>Android Kernel Developer · Linux Enthusiast · Open-Source Creator</strong></p>
-<p>Building performance tools, recovery systems, kernels, cloud tooling, and practical AI experiments.</p>
+<p><strong>ANDROID SYSTEMS  ·  LINUX  ·  AI TOOLS</strong></p>
+<p><code>Independent developer building practical software from kernel to cloud.</code></p>
+
+<a href="https://github.com/darkvirgoyt-beep/VirgoYT-AI"><img src="https://img.shields.io/badge/⚡_VIRGOYT_CLOUD_AI-735CFF?style=for-the-badge" alt="VirgoYT Cloud AI" /></a>
+<a href="https://github.com/darkvirgoyt-beep?tab=repositories"><img src="https://img.shields.io/badge/OPEN_SOURCE-22D3EE?style=for-the-badge&labelColor=111827" alt="Open source" /></a>
+<a href="https://github.com/darkvirgoyt-beep"><img src="https://img.shields.io/badge/STATUS-BUILDING-FB4161?style=for-the-badge&labelColor=111827" alt="Status building" /></a>
 
 </div>
 
 ---
 
-## About Me
+<h2>✦ WHO I AM</h2>
 
-I am an independent developer focused on **Android systems engineering, Linux, device recovery, gaming performance, and AI-powered developer tools**. My work moves across the stack: from device-specific kernels and recovery environments to Kotlin Android applications, TypeScript cloud services, and VirgoYT Cloud AI.
+**Android Kernel Developer · Linux Enthusiast · Open-Source Creator**
 
-I prefer engineering that is useful and verifiable. I study the system boundary, document compatibility, test the result, and make the next step clear for the person who will use the project.
+I build across the system boundary: **device kernels, recovery environments, Android performance tools, cloud services, and AI developer workflows**. My goal is simple—make complex systems more useful, testable, and understandable.
 
-<div align="center">
+> `BUILD` → `TEST` → `DOCUMENT` → `SHIP`
 
-| 25 | 6 | 3 |
-|:---:|:---:|:---:|
-| Public repositories | Core focus areas | Signature product lines |
+---
 
-</div>
-
-> Current direction: **Android performance tooling + Linux systems + VirgoYT Cloud AI**
-
-## Featured Work
+<h2>⚡ SIGNATURE BUILDS</h2>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### [VirgoYT Cloud AI](https://github.com/darkvirgoyt-beep/VirgoYT-AI)
+<h3>01 · VIRGOYT CLOUD AI</h3>
 
-A developer-focused AI workspace concept for prompt-driven tasks, agent orchestration, code generation, file management, terminal output, and downloadable project artifacts.
+Prompt-driven AI workspace for agent tasks, code generation, project files, terminal output, diff review, and downloadable artifacts.
 
-`Kotlin` `Android` `Jetpack Compose` `AI tooling`
+<a href="https://github.com/darkvirgoyt-beep/VirgoYT-AI"><code>OPEN PROJECT ↗</code></a>
 
-</td>
-<td width="50%" valign="top">
+<br /><br />
 
-### [FogOS Manager](https://github.com/darkvirgoyt-beep/FogOS-Manager)
-
-Android tooling for controlling FogOS kernel profiles and device tuning on supported hardware.
-
-`Kotlin` `Android` `Performance`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [Gaming Kernel — FogOS](https://github.com/darkvirgoyt-beep/Motorola-g45-34-gaming-kernel-Fogos-new)
-
-Custom gaming-kernel development for the Motorola G45/G34 fogos device family.
-
-`C` `Linux kernel` `Android`
+<code>KOTLIN</code> <code>ANDROID</code> <code>COMPOSE</code> <code>AI</code>
 
 </td>
 <td width="50%" valign="top">
 
-### [Android 17 Recovery](https://github.com/darkvirgoyt-beep/moto-g45-fogos-android17-recovery)
+<h3>02 · FOGOS PERFORMANCE</h3>
 
-Unofficial recovery porting and safe temporary-boot experimentation for Motorola fogos hardware.
+Android tools and kernel profiles for supported Motorola and SM6375 devices, with a focus on practical tuning and control.
 
-`C++` `Android recovery` `Device bring-up`
+<a href="https://github.com/darkvirgoyt-beep/FogOS-Manager"><code>OPEN PROJECT ↗</code></a>
+
+<br /><br />
+
+<code>KOTLIN</code> <code>ANDROID</code> <code>KERNEL</code>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### [VirgoCloud](https://github.com/darkvirgoyt-beep/VirgoCloud)
+<h3>03 · KERNEL / RECOVERY</h3>
 
-A standalone Minecraft hosting control plane and Docker node-agent experiment.
+Custom gaming-kernel and Android recovery work for the Motorola fogos device family.
 
-`TypeScript` `Docker` `Cloud`
+<a href="https://github.com/darkvirgoyt-beep/Motorola-g45-34-gaming-kernel-Fogos-new"><code>KERNEL ↗</code></a> · <a href="https://github.com/darkvirgoyt-beep/moto-g45-fogos-android17-recovery"><code>RECOVERY ↗</code></a>
+
+<br /><br />
+
+<code>C</code> <code>C++</code> <code>LINUX</code> <code>ANDROID</code>
 
 </td>
 <td width="50%" valign="top">
 
-### [Anime Forest Survival RPG](https://github.com/darkvirgoyt-beep/anime-forest-survival-rpg-android)
+<h3>04 · VIRGOCLOUD</h3>
 
-Android landscape survival RPG prototype with a C++17/OpenGL ES foundation, crafting, animals, and CI.
+TypeScript cloud control-plane and Docker node-agent experiment for Minecraft hosting infrastructure.
 
-`C++17` `OpenGL ES` `Android`
+<a href="https://github.com/darkvirgoyt-beep/VirgoCloud"><code>OPEN PROJECT ↗</code></a>
+
+<br /><br />
+
+<code>TYPESCRIPT</code> <code>DOCKER</code> <code>CLOUD</code>
 
 </td>
 </tr>
 </table>
 
-## Technology Arsenal
+---
+
+<h2>◈ THE ARSENAL</h2>
 
 <div align="center">
 
-### Android & Systems
-
-<img src="https://skillicons.dev/icons?i=android,kotlin,cpp,c,linux,bash,gradle" alt="Android and systems technologies" />
-
-### Web, Cloud & Delivery
-
-<img src="https://skillicons.dev/icons?i=ts,html,css,nodejs,docker,github,githubactions,vercel" alt="Web cloud and delivery technologies" />
-
-### AI & Developer Workflow
-
-<img src="https://skillicons.dev/icons?i=python,git,sqlite,firebase" alt="AI and developer workflow technologies" />
-
-</div>
-
-## What I Build
-
-| Area | Work I am pursuing |
-|---|---|
-| **Android systems** | Device-aware kernel profiles, gaming optimization, recovery tooling, and safe system utilities. |
-| **VirgoYT Cloud AI** | A practical AI workspace with chat input, agent tasks, project files, build output, diff review, and artifact downloads. |
-| **Cloud tooling** | TypeScript services, Docker-based control planes, and developer automation experiments. |
-| **Open-source delivery** | Better READMEs, reproducible builds, CI status, release notes, and clear limitations. |
-
-## GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=darkvirgoyt-beep&show_icons=true&hide_border=true&bg_color=0D1117&title_color=6D5DF5&text_color=CBD5E1&icon_color=22D3EE&count_private=true" alt="GitHub statistics" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkvirgoyt-beep&layout=compact&hide_border=true&bg_color=0D1117&title_color=6D5DF5&text_color=CBD5E1&icon_color=22D3EE" alt="Top languages" width="41%" />
-
-<br />
-
-<img src="https://streak-stats.demolab.com?user=darkvirgoyt-beep&theme=dark&hide_border=true&background=0D1117&ring=6D5DF5&fire=F43F5E&currStreakLabel=22D3EE" alt="GitHub contribution streak" width="70%" />
-
-</div>
-
-## Engineering Standards
-
-I am actively improving my projects toward a consistent open-source standard: every serious repository should explain what it does, identify supported devices or environments, provide reproducible build commands, separate experimental and stable artifacts, and make limitations visible before installation.
-
-For device and kernel work, compatibility and recovery instructions matter more than marketing. For AI and cloud work, secrets must remain server-side, actions should be reviewable, and generated files should be downloadable only after validation.
-
-## Connect
-
-The best way to collaborate is through [GitHub issues and discussions](https://github.com/darkvirgoyt-beep). Include the project name, device or environment, exact reproduction steps, logs, expected behavior, and the change you are proposing.
-
-<div align="center">
-
-<a href="https://github.com/darkvirgoyt-beep/VirgoYT-AI"><img src="https://img.shields.io/badge/Explore%20VirgoYT%20Cloud%20AI-6D5DF5?style=for-the-badge&logo=github&logoColor=white" alt="Explore VirgoYT Cloud AI" /></a>
+<img src="https://skillicons.dev/icons?i=android,kotlin,cpp,c,linux,bash,gradle" alt="Android and systems stack" />
 
 <br /><br />
 
-<sub>VirgoYT · Android systems · Linux tooling · performance engineering · AI experiments</sub>
+<img src="https://skillicons.dev/icons?i=ts,nodejs,html,css,docker,github,githubactions,vercel" alt="Web cloud and delivery stack" />
+
+<br /><br />
+
+<img src="https://skillicons.dev/icons?i=python,git,sqlite,firebase" alt="AI and workflow stack" />
+
+<br />
+
+<code>ANDROID</code> <code>KOTLIN</code> <code>C/C++</code> <code>LINUX</code> <code>TYPESCRIPT</code> <code>DOCKER</code> <code>AI WORKFLOWS</code>
+
+</div>
+
+---
+
+<h2>▣ CURRENTLY BUILDING</h2>
+
+| SYSTEM | DIRECTION |
+|:---|:---|
+| **VirgoYT Cloud AI** | A serious AI workspace with chat, agent execution, file review, build output, and artifact delivery. |
+| **Android Performance** | Device-aware kernel profiles, gaming optimization, and safer system utilities. |
+| **Recovery / Device Work** | Reproducible recovery experiments and Motorola fogos-family development. |
+| **Open-Source Quality** | Better documentation, CI, release notes, compatibility checks, and clear limitations. |
+
+---
+
+<h2>◉ GITHUB SIGNAL</h2>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=darkvirgoyt-beep&show_icons=true&hide_border=true&bg_color=0D1117&title_color=735CFF&text_color=CBD5E1&icon_color=22D3EE&count_private=true" alt="GitHub statistics" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkvirgoyt-beep&layout=compact&hide_border=true&bg_color=0D1117&title_color=735CFF&text_color=CBD5E1&icon_color=22D3EE" alt="Top languages" width="41%" />
+
+<br /><br />
+
+<img src="https://streak-stats.demolab.com?user=darkvirgoyt-beep&theme=dark&hide_border=true&background=0D1117&ring=735CFF&fire=FB4161&currStreakLabel=22D3EE" alt="GitHub contribution streak" width="70%" />
+
+</div>
+
+---
+
+<h2>⌁ ENGINEERING NOTE</h2>
+
+For device and kernel work, **compatibility and recovery instructions come before marketing**. For AI and cloud work, **secrets stay server-side, actions remain reviewable, and generated artifacts are validated before delivery**.
+
+---
+
+<div align="center">
+
+<h2>LET'S BUILD SOMETHING USEFUL.</h2>
+
+<a href="https://github.com/darkvirgoyt-beep/issues"><img src="https://img.shields.io/badge/OPEN_A_DISCUSSION-735CFF?style=for-the-badge" alt="Open a discussion" /></a>
+<a href="https://github.com/darkvirgoyt-beep/VirgoYT-AI"><img src="https://img.shields.io/badge/EXPLORE_VIRGOYT_CLOUD_AI-22D3EE?style=for-the-badge&labelColor=111827" alt="Explore VirgoYT Cloud AI" /></a>
+
+<br /><br />
+
+<sub>VIRGOYT SYSTEMS LAB  ·  BUILDING IN PUBLIC</sub>
 
 </div>
