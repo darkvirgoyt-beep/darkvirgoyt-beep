@@ -6,9 +6,10 @@
 
 <h1>VIRGOYT</h1>
 
-<p><strong>ANDROID SYSTEMS  ·  LINUX  ·  AI TOOLS</strong></p>
-<p><code>Independent developer building practical software from kernel to cloud.</code></p>
-<p><code>◈ DIMENSIONAL SYSTEMS LAB  /  BUILDING IN PUBLIC</code></p>
+<p><strong>ANDROID SYSTEMS · LINUX KERNELS · AI TOOLS · CLOUD SOFTWARE</strong></p>
+<p><strong>VirgoYT is an independent Android systems and software developer.</strong></p>
+<p><code>Building practical software from Android kernels to AI developer tools and cloud infrastructure.</code></p>
+<p><code>VIRGOYT SYSTEMS LAB · BUILDING IN PUBLIC</code></p>
 
 <a href="https://github.com/darkvirgoyt-beep/VirgoYT-AI"><img src="./assets/virgoyt-reference-cinematic.gif" alt="VirgoYT reference cinematic showcase" width="100%" /></a>
 
@@ -22,11 +23,15 @@
 
 ---
 
-<h2>✦ WHO I AM</h2>
+<h2>✦ ABOUT VIRGOYT</h2>
 
-**Android Kernel Developer · Linux Enthusiast · Open-Source Creator**
+**VirgoYT is the developer identity of Prince Raj, an independent Android systems developer and open-source creator.**
 
-I build across the system boundary: **device kernels, recovery environments, Android performance tools, cloud services, and AI developer workflows**. My goal is simple—make complex systems more useful, testable, and understandable.
+I build and document practical software across **Android kernel development, Linux tooling, device recovery, Android performance engineering, AI developer workflows, cloud infrastructure, and original game prototypes**. My public projects include **VirgoYT AI**, the **FogOS Android performance and gaming kernel work**, **VirgoCloud**, and an **Android anime forest survival RPG prototype**.
+
+This profile is about software engineering and open-source development—not astrology. The name **VirgoYT** refers to my creator/developer brand and is associated with the public handle **@virgoyt707**.
+
+My working principle is simple:
 
 > `BUILD` → `TEST` → `DOCUMENT` → `SHIP`
 
